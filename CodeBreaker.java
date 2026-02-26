@@ -21,7 +21,7 @@ public class CodeBreaker {
     };
 
     public static void main(String[] args) {
-        System.out.println("=== CodeBreaker by lowkyloki ===");
+        System.out.println("=== CodeBreaker by sw4gaccino ===");
         System.out.println("errate das passwort anhand der hinweise");
         System.out.println("tipp: 'hinweis' eingeben fuer extra hilfe (kostet einen versuch)");
         System.out.println();
